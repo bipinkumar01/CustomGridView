@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_428df7fb7d87d814d4d42d011d9f04812d429bfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_2041a883d3475b494f3fb061c95f67eac8c84125.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_bf6df09c67ee747eb89e2e0593fce5c87ff046a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_b3d989635cdcaab7fd1429b63d6f46d80bea3f90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_1d4323f08317f0a505a85c9c053b7995a9262d47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_fd09244e8f98dcdefb84bb4daf5776084639848f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f99e9e24e033e770bcf4e10eb5deacda71d20be4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_2ab604ce7485a8b3ae6805000196a8bf43f75f62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Bipin\Desktop\Project\CustomGridView\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_a326d83b60f6047c086e9298c1032e05d4a6763b.jar" />
+    </item>
+
+</items>
